@@ -1,6 +1,8 @@
 # Leeroys JamKings (Lakeshire) Gilden Repository für Druiden
 
+Aktuell findet ihr hier:   
+- [Infos zu Makros](https://github.com/neryi/jamkings-druid/blob/master/makros.md)
+- [Druiden Addon Liste](https://github.com/neryi/jamkings-druid/blob/master/addons.md)
+- [Allgemeine Tips, Guides sowie Itemlist/BiS Infos](https://github.com/neryi/jamkings-druid/blob/master/info.md)
 
-Ihr findet hier Informationen zu Addons und Makros.   
-Info enhält allgemeine Tips, Links zu Itemlist/BiS sowie Guides.  
 Falls Änderungen oder Ergänzungen erwünscht sind, meldet euch im discord.
