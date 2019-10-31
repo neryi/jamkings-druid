@@ -93,8 +93,8 @@ Verwendet je nach Form Feenfeuer oder Feenfeuer (Tiergestalt) (funktioniert nat�
 /cast [stance:1][stance:3] Feenfeuer (Tiergestalt)
 ```
 
-**Innvervate Healer**  
-Verlässt die Form und gibt Anregen auf Heiler, ohne z.B. als Tank, sein Ziel zu verlieren. Wechselt optional danach wieder zum Bär.  
+**Innervate Healer**  
+Verlässt die Form und gibt Anregen auf Heiler, ohne z.B. als Tank, dass Ziel zu verlieren. Wechselt optional danach wieder zum Bär.  
 *WICHTIG, Name des Heilers (HEALERNAME) vorher anpassen*
 
 ```lua
