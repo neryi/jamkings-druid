@@ -40,6 +40,18 @@ Für den normalen Bär Name anpassen.
 /cast Wassergestalt(Gestaltwandel)
 ```
 
+## Dust Makros
+Dust Makros, im Anlehnung an die Staubwolke die beim wechseln von Formen angezeigt wird, kann man verwenden um Items in Gestalten benutzbar zu machen.
+Da Gegestände auf separatem cooldown liegen, kann rausgewechselt, verwendet und wieder reingewechselt werden ohne warten zu müssen.
+
+### Beispiel: Heiltrank in Bärform
+```lua
+/showtooltip
+/cancelform
+/use Heiltrank
+/cast Terrorbärengestalt
+```
+
 
 ## Downranking
 Einige Beispiele wie man verschiedene Ränge eines Zaubers (downranking) mit modifier in ein einzelnes Makro packen kann.

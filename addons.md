@@ -5,8 +5,8 @@
 Eine anpassbare Manabar, die auch in Tierformen über aktuelles Mana informiert. 
 
 
-[**Outfitter**](https://www.curseforge.com/wow/addons/outfitter)  
-Durch die verschiedenen Rollen kommen viele Items zusammen. Um nicht völlig durcheinander zu kommen ist ein Equipset Manager wie Outfitter zu empfehlen. Damit lassen sich beliebig viele Sets erstellen und automatisch wechseln.
+[**Wardrobe**](https://www.curseforge.com/wow/addons/wardrobe)  
+Durch die verschiedenen Rollen kommen viele Items zusammen. Um nicht völlig durcheinander zu kommen ist ein Equipset Manager wie Wardrobe zu empfehlen. Damit lassen sich beliebig viele Sets erstellen und automatisch wechseln.
 
 
 [**Simple Energy Bar**](https://www.curseforge.com/wow/addons/simpleenergybar)   
