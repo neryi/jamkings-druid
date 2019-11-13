@@ -46,7 +46,7 @@ Da Gegestände auf separatem cooldown liegen, kann rausgewechselt, verwendet und
 
 ### Beispiel: Heiltrank in Bärform
 ```lua
-/showtooltip
+#showtooltip
 /cancelform
 /use Heiltrank
 /cast Terrorbärengestalt
