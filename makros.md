@@ -41,7 +41,7 @@ Für den normalen Bär Name anpassen.
 ```
 
 ## Dust Makros
-Dust Makros, im Anlehnung an die Staubwolke die beim wechseln von Formen angezeigt wird, kann man verwenden um Items in Gestalten benutzbar zu machen.
+Dust Makros, in Anlehnung an die Staubwolke die beim wechseln von Formen angezeigt wird, kann man verwenden um Items in Gestalten benutzbar zu machen.
 Da Gegestände auf separatem cooldown liegen, kann rausgewechselt, verwendet und wieder reingewechselt werden ohne warten zu müssen.
 
 ### Beispiel: Heiltrank in Bärform
